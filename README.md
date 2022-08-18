@@ -1,6 +1,6 @@
 # hello-world
 A repository about coding
-I'm a student currently studying Information Communication Engineering. I'm also very good in graphics design
+I'm currently an Information Communication Engineer. I'm also very good in graphics design
 <!DOCTYPE html>
 <head>
   <title>Anna Dowlin</title>
